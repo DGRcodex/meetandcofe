@@ -1,0 +1,36 @@
+header {
+        top: 0px;
+        left: 0px;
+        width: 1920px;
+        height: 99px;
+        /* UI Properties */
+        background: #000F08 0% 0% no-repeat padding-box;
+        opacity: 1;
+}   
+
+ header {
+     background-color: #333;
+     color: #fff;
+     padding: 20px;
+ }
+
+ header h1 {
+     margin: 0;
+     font-size: 24px;
+ }
+
+ header ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+ }
+
+ header ul li {
+     display: inline-block;
+     margin-right: 20px;
+ }
+
+ header ul li a {
+     color: #fff;
+     text-decoration: none;
+ }
