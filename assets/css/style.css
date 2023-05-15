@@ -65,3 +65,89 @@ header {
       font-size: 24px;
       font-weight: normal;
   }
+
+
+  .contacto {
+        text-align: center;
+        background-color: #f2f2f2;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+  .contacto h1 {
+      color: black;
+  }
+
+  .contacto img {
+      display: block;
+      margin: 0 auto;
+      max-width: 100%;
+      height: auto;
+            margin-top: 20px;
+                margin-bottom: 20px;
+  }
+
+
+        .charlas {
+        top: 1351px;
+            left: 0px;
+            width: 1920px;
+            height: 501px;
+            /* UI Properties */
+            background-color: #A4452C 0% 0% no-repeat padding-box;
+            opacity: 1;
+        }
+    
+        .charlas .texto {
+            flex-grow: 1;
+            padding: 0 20px;
+            color: white;
+        }
+    
+        .charlas .texto h2 {
+            font-size: 24px;
+        }
+    
+        .charlas .texto p {
+            font-size: 18px;
+        }
+    
+        .charlas .texto span {
+            font-size: 14px;
+        }
+    
+        .charlas img {
+            max-width: 50%;
+            display: block;
+            margin: 0 auto;
+        }
+
+
+                  #anteriores {
+                      text-align: center;
+                      background-color: #f2f2f2;
+                      padding: 20px;
+                  }
+        
+                  #anteriores h1 {
+                      margin-bottom: 20px;
+                  }
+        
+                  #anteriores h2 {
+                      margin-top: 20px;
+                      display: inline;
+                  }
+        
+                  #anteriores img {
+                      width: 250;
+                      margin-bottom: 10px;
+                      display: inline;
+                  }
+        
+                  #anteriores .evento {
+                      display: inline-block;
+                      margin-right: 20px;
+                      vertical-align: top;
+                  }
